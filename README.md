@@ -1,5 +1,5 @@
 # José Fernando Cordova
-Hi, I'm José Fernando a Backend Developer at [GeoPagos](https://geopagos.com) working on RESTful APIs and Dockerized development environments. 
+Hi, I'm José Fernando a Backend Developer at [GeoPagos](https://geopagos.com) working on RESTful APIs and Dockerized development environments.   
 I live in Buenos Aires, ARG and I'm Information Technology Student 🚀.
 
 ## My values
