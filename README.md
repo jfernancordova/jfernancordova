@@ -7,5 +7,5 @@ I'm an Information Technology Student 🚀 at [UAI](https://www.uai.edu.ar/facul
 
 ## Get in touch
 - Twitter: https://twitter.com/jfernancordova
-- Personal site: https://jfernancordova.github.io/
+- Personal site: https://jfernancordova.github.io
 - Linkedin: https://www.linkedin.com/in/jfernancordova
