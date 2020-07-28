@@ -1,5 +1,5 @@
 # José Fernando Cordova
-Hi, I'm a Backend Developer 🖥️💻 and Information Technology Student 🧑‍🎓📚 currently working on RESTful APIs and Dockerized development environments 🙌.
+Hi, I'm a Backend Developer 🖥️💻 and Information Technology Student 🧑‍🎓📚. I'm currently working on RESTful APIs and Dockerized development environments 🙌.
  
 ## My values
 🌟 I'm proficient in working across all the stages of Software Development Life Cycle that includes planning, coding and deployments via multiple application servers and thought automation.
